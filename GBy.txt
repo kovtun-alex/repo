@@ -1,2 +1,2 @@
-print("GoodBy")
+print("GoodBy")print("GoodBy")
 print("By world!")
