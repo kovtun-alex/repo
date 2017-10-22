@@ -1,4 +1,0 @@
-print("Hello, friends!")
-print("Everybody Hi!")
-print("Again Hi!")
-print("How old?")
